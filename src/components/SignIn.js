@@ -12,7 +12,7 @@ function SignIn() {
 
     return (
         <div>
-            <button onClick={signInGoogle} className='btn btn-dark btn-outline-success' style={{width: "100%"}}>Entra con Gugl mi pana</button>
+            <button onClick={signInGoogle} className='btn btn-dark btn-outline-success' style={{width: "100%"}}>SIGN IN WITH GOOGLE</button>
         </div>
     )
 }
